@@ -4,7 +4,7 @@ Hello! In this project I focus on analyzing and forecasting sales data from Walm
 I use various machine learning algorithms and techniques to understand and predict sales trends 
 for each department within the stores. The goal of this project is to help Walmart improve its 
 inventory management and optimize store operations.
-
+  
 ## Data
 
 The dataset used in this project consists of historical sales data for 45 Walmart stores located in different regions. Each store contains a number of departments, and we are tasked with predicting the department-wide sales for each store.
